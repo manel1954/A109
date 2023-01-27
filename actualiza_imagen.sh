@@ -2,7 +2,7 @@
                         cd /home/pi/.local
                         git clone http://github.com/manel1954/A109
                         sleep 2
-                        if [ -f /home/pi/.local/D1090/aviso ]
+                        if [ -f /home/pi/.local/A109/aviso ]
                         then
                         sudo rm -R /home/pi/A108
                         cp -R /home/pi/.local/A109 /home/pi
