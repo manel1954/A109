@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 TryExec=lxterminal
-Exec=sh -c "cd /home/pi/A109; ./qt_radiosonde"
+Exec=sh -c "cd /home/pi/A108; ./qt_radiosonde"
 Icon=/home/pi/A109/ICONO_RADIOSONDE.png
 Type=Application
 StartupNotify=false
